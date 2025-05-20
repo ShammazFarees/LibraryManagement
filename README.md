@@ -19,8 +19,6 @@ The Library Management System is an interactive application developed using Pyth
 
 ## **Installation Instructions**
 ### **Clone the Repository**
-git clone https://github.com/ShammazFarees/libraryManagement.git
-cd library-management-system
 
 ### **Install the Dependencies**
 pip install tk pillow sqlite3
